@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mpano/Mychat">
-    <img src="images/Screanshot.png" alt="Logo" width="1000" height="1000">
+    <img src="images/Screenshot.png" alt="Logo" width="1000" height="1000">
   </a>
 
   <h3 align="center">Mychat</h3>
