@@ -11,7 +11,7 @@
 
   <p align="center">
     An awesome Chat with friends like whatsapp template! <br />
-    open client readme and server readme for every step
+    open client readme and server readme for every step by step
   </p>
 </div>
 
