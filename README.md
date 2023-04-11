@@ -12,11 +12,10 @@
   <p align="center">
     An awesome Chat with friends like whatsapp template!
 
-    <br />
     <a href="https://github.com/mpano/Mychat">View Demo</a>
-    ·
+    
     <a href="https://github.com/mpano/Mychat/client-react">FrontEnd with React</a>
-    ·
+    
     <a href="https://github.com/mpano/Mychat/server-express">Backend with nodejs Express</a>
   </p>
 </div>
