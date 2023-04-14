@@ -1,4 +1,4 @@
-# Mychat
+# Mychat App
 
 <!-- PROJECT LOGO -->
 <br />
