@@ -1,4 +1,4 @@
-
+# Mychat
 
 <!-- PROJECT LOGO -->
 <br />
@@ -14,6 +14,7 @@
     open client readme and server readme for every step
   </p>
 </div>
+
 
 
 
